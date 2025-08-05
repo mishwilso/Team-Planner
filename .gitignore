@@ -1,0 +1,16 @@
+# Node
+node_modules/
+dist/
+.vite/
+.env
+
+# Logs
+*.log
+
+# OS / Editor
+.DS_Store
+*.swp
+
+# Build outputs
+client/dist/
+server/build/
